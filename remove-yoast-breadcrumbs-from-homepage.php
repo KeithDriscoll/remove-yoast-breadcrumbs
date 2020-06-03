@@ -1,3 +1,4 @@
+<?php
 /* Remove Yoast breadcrumbs from homepage only
 *
 *  @link https://digitalgeekblog.com/remove-yoast-breadcrumbs-from-homepage-only
